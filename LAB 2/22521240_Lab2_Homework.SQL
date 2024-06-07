@@ -1,3 +1,5 @@
+--Use database PartShipment do questions 1->8 and 33->36
+
 CREATE DATABASE LAB2;
 
 USE LAB2;
