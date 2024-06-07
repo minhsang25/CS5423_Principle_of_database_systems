@@ -1,3 +1,5 @@
+--Use database PartShipment do questions 9, 10, 11, 12, 13, 16, 18, 20 
+
 USE Parts
 
 -- 9. Show full details of all parts that have been shipped by supplier S1. Use a join query and make sure no
