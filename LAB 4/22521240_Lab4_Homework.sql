@@ -1,3 +1,5 @@
+--Use database PartShipment do questions 21->32
+
 USE Parts
 
 -- 21. How many suppliers are there?
