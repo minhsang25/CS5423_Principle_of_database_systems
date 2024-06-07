@@ -1,3 +1,10 @@
+--Database: SellingMgmt
+
+-- Question: 38->44
+
+-- Trigger (Lab5)
+
+--No homework
 USE SellingManagement
 -- 38. Which orders have at least 4 different products.
 SELECT ORDER_ID
