@@ -2,4 +2,4 @@
 
 **LECTURE**
 - Nguyen Thanh Binh
-- Nguyen Thi Minh Phung
+- Do Thi Minh Phung
